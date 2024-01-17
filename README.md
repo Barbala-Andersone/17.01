@@ -1,0 +1,1 @@
+Python fails, kur lietotājs ieraksta savu vārdu, uzvārdu, to ieraksta txt teksta failā
